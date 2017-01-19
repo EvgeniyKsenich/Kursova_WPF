@@ -1,0 +1,16 @@
+C:\Users\zzzzz\OneDrive\Документы\Visual Studio 2015\Projects\Kursova_WPF\Kursova_WPF\bin\Debug\Kursova_WPF.exe.config
+C:\Users\zzzzz\OneDrive\Документы\Visual Studio 2015\Projects\Kursova_WPF\Kursova_WPF\bin\Debug\Kursova_WPF.exe
+C:\Users\zzzzz\OneDrive\Документы\Visual Studio 2015\Projects\Kursova_WPF\Kursova_WPF\bin\Debug\Kursova_WPF.pdb
+C:\Users\zzzzz\OneDrive\Документы\Visual Studio 2015\Projects\Kursova_WPF\Kursova_WPF\obj\Debug\Kursova_WPF.csprojResolveAssemblyReference.cache
+C:\Users\zzzzz\OneDrive\Документы\Visual Studio 2015\Projects\Kursova_WPF\Kursova_WPF\obj\Debug\MainWindow.g.cs
+C:\Users\zzzzz\OneDrive\Документы\Visual Studio 2015\Projects\Kursova_WPF\Kursova_WPF\obj\Debug\App.g.cs
+C:\Users\zzzzz\OneDrive\Документы\Visual Studio 2015\Projects\Kursova_WPF\Kursova_WPF\obj\Debug\Kursova_WPF_MarkupCompile.cache
+C:\Users\zzzzz\OneDrive\Документы\Visual Studio 2015\Projects\Kursova_WPF\Kursova_WPF\obj\Debug\Kursova_WPF_MarkupCompile.lref
+C:\Users\zzzzz\OneDrive\Документы\Visual Studio 2015\Projects\Kursova_WPF\Kursova_WPF\obj\Debug\MainWindow.baml
+C:\Users\zzzzz\OneDrive\Документы\Visual Studio 2015\Projects\Kursova_WPF\Kursova_WPF\obj\Debug\Kursova_WPF.g.resources
+C:\Users\zzzzz\OneDrive\Документы\Visual Studio 2015\Projects\Kursova_WPF\Kursova_WPF\obj\Debug\Kursova_WPF.Properties.Resources.resources
+C:\Users\zzzzz\OneDrive\Документы\Visual Studio 2015\Projects\Kursova_WPF\Kursova_WPF\obj\Debug\Kursova_WPF.csproj.GenerateResource.Cache
+C:\Users\zzzzz\OneDrive\Документы\Visual Studio 2015\Projects\Kursova_WPF\Kursova_WPF\obj\Debug\Kursova_WPF.exe
+C:\Users\zzzzz\OneDrive\Документы\Visual Studio 2015\Projects\Kursova_WPF\Kursova_WPF\obj\Debug\Kursova_WPF.pdb
+C:\Users\zzzzz\OneDrive\Документы\Visual Studio 2015\Projects\Kursova_WPF\Kursova_WPF\obj\Debug\Tabel.g.cs
+C:\Users\zzzzz\OneDrive\Документы\Visual Studio 2015\Projects\Kursova_WPF\Kursova_WPF\obj\Debug\Tabel.baml

@@ -1,0 +1,129 @@
+﻿<Window x:Class="Kursova_WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Kursova_WPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="600" Width="1282" ScrollViewer.HorizontalScrollBarVisibility="Auto" ResizeMode="NoResize">
+    <Grid Margin="0,10,-65,-21">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="3*"/>
+            <RowDefinition Height="577*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0*"/>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="0*"/>
+        </Grid.ColumnDefinitions>
+        <TextBlock x:Name="textBlock_1" HorizontalAlignment="Left" Margin="10,33,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="70" Width="53" FontSize="50.667" TextAlignment="Center" OpacityMask="#FF362929" Background="#FFF51313" Grid.Row="1" Grid.ColumnSpan="2"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="70" Margin="10,33,0,0" VerticalAlignment="Top" Width="53" Grid.Row="1" Grid.ColumnSpan="2"/>
+        <TextBlock x:Name="textBlock_2" HorizontalAlignment="Left" Margin="80,33,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="70" Width="53" FontSize="50.667" TextAlignment="Center" OpacityMask="#FF362929" Background="#FF0A0ADC" Grid.Row="1" Grid.ColumnSpan="2"/>
+        <TextBlock x:Name="textBlock_3" HorizontalAlignment="Left" Margin="150,33,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="70" Width="53" FontSize="50.667" TextAlignment="Center" OpacityMask="#FF362929" Background="#FF0A0ADC" Grid.Row="1" Grid.ColumnSpan="2"/>
+        <TextBlock x:Name="textBlock_4" HorizontalAlignment="Left" Margin="220,33,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="70" Width="53" FontSize="50.667" TextAlignment="Center" OpacityMask="#FF362929" Background="#FF0A0ADC" Grid.Row="1" Grid.Column="1"/>
+        <TextBlock x:Name="textBlock_5" HorizontalAlignment="Left" Margin="290,33,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="70" Width="52" FontSize="50.667" TextAlignment="Center" OpacityMask="#FF362929" Background="#FF0A0ADC" Grid.Row="1" Grid.Column="1"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="70" Margin="80,33,0,0" VerticalAlignment="Top" Width="53" Grid.Row="1" Grid.ColumnSpan="2"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="70" Margin="150,33,0,0" VerticalAlignment="Top" Width="53" Grid.Row="1" Grid.ColumnSpan="2"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="70" Margin="220,33,0,0" VerticalAlignment="Top" Width="53" Grid.Row="1" Grid.Column="1"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="70" Margin="290,33,0,0" VerticalAlignment="Top" Width="53" Grid.Row="1" Grid.Column="1"/>
+        <TextBlock x:Name="textBlock_6" HorizontalAlignment="Left" Margin="360,33,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="70" Width="53" FontSize="50.667" TextAlignment="Center" OpacityMask="#FF362929" Background="#FF0A0ADC" Grid.Row="1" Grid.Column="1"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="70" Margin="360,33,0,0" VerticalAlignment="Top" Width="53" Grid.Row="1" Grid.Column="1"/>
+        <TextBlock x:Name="textBlock_7" HorizontalAlignment="Left" Margin="430,33,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="70" Width="53" FontSize="50.667" TextAlignment="Center" OpacityMask="#FF362929" Background="#FF0A0ADC" Grid.Row="1" Grid.Column="1"/>
+        <TextBlock x:Name="textBlock_8" HorizontalAlignment="Left" Margin="500,33,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="70" Width="53" FontSize="50.667" TextAlignment="Center" OpacityMask="#FF362929" Background="#FF0A0ADC" Grid.Row="1" Grid.Column="1"/>
+        <TextBlock x:Name="textBlock_9" HorizontalAlignment="Left" Margin="570,33,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="70" Width="53" FontSize="50.667" TextAlignment="Center" OpacityMask="#FF362929" Background="#FF0A0ADC" Grid.Row="1" Grid.Column="1"/>
+        <TextBlock x:Name="textBlock_10" HorizontalAlignment="Left" Margin="640,33,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="70" Width="52" FontSize="50.667" TextAlignment="Center" OpacityMask="#FF362929" Background="#FF0A0ADC" Grid.Row="1" Grid.Column="1"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="70" Margin="430,33,0,0" VerticalAlignment="Top" Width="53" Grid.Row="1" Grid.Column="1"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="70" Margin="500,33,0,0" VerticalAlignment="Top" Width="53" Grid.Row="1" Grid.Column="1"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="70" Margin="570,33,0,0" VerticalAlignment="Top" Width="53" Grid.Row="1" Grid.Column="1"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="70" Margin="640,33,0,0" VerticalAlignment="Top" Width="53" Grid.Row="1" Grid.Column="1"/>
+        <TextBlock x:Name="textBlock_11" HorizontalAlignment="Left" Margin="710,33,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="70" Width="53" FontSize="50.667" TextAlignment="Center" OpacityMask="#FF362929" Background="#FF0A0ADC" Grid.Row="1" Grid.Column="1"/>
+        <TextBlock x:Name="textBlock_12" HorizontalAlignment="Left" Margin="780,33,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="70" Width="52" FontSize="50.667" TextAlignment="Center" OpacityMask="#FF362929" Background="#FF0A0ADC" Grid.Row="1" Grid.Column="1"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="70" Margin="710,33,0,0" VerticalAlignment="Top" Width="53" Grid.Row="1" Grid.Column="1"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="70" Margin="780,33,0,0" VerticalAlignment="Top" Width="53" Grid.Row="1" Grid.Column="1"/>
+        <TextBlock x:Name="textBlock_13" HorizontalAlignment="Left" Margin="850,33,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="70" Width="53" FontSize="50.667" TextAlignment="Center" OpacityMask="#FF362929" Background="#FF0A0ADC" Grid.Row="1" Grid.Column="1"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="70" Margin="850,33,0,0" VerticalAlignment="Top" Width="53" Grid.Row="1" Grid.Column="1"/>
+        <TextBlock x:Name="textBlock_14" HorizontalAlignment="Left" Margin="920,33,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="70" Width="53" FontSize="50.667" TextAlignment="Center" OpacityMask="#FF362929" Background="#FF0A0ADC" Grid.Row="1" Grid.Column="1"/>
+        <TextBlock x:Name="textBlock_15" HorizontalAlignment="Left" Margin="990,33,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="70" Width="53" FontSize="50.667" TextAlignment="Center" OpacityMask="#FF362929" Background="#FF0A0ADC" Grid.Column="1" Grid.Row="1"/>
+        <TextBlock x:Name="textBlock_16" HorizontalAlignment="Left" Margin="1060,33,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="70" Width="53" FontSize="50.667" TextAlignment="Center" OpacityMask="#FF362929" Background="#FF0A0ADC" Grid.Column="1" Grid.Row="1"/>
+        <TextBlock x:Name="textBlock_17" HorizontalAlignment="Left" Margin="1130,33,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="70" Width="52" FontSize="50.667" TextAlignment="Center" OpacityMask="#FF362929" Background="#FF0A0ADC" Grid.Column="1" Grid.Row="1"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="71" Margin="920,32,0,0" VerticalAlignment="Top" Width="53" RenderTransformOrigin="0.5,0.5" Grid.Row="1" Grid.Column="1">
+            <Border.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleY="-1"/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Border.RenderTransform>
+        </Border>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="70" Margin="990,33,0,0" VerticalAlignment="Top" Width="53" Grid.Column="1" Grid.Row="1"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="70" Margin="1060,33,0,0" VerticalAlignment="Top" Width="53" Grid.Column="1" Grid.Row="1"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="70" Margin="1130,33,0,0" VerticalAlignment="Top" Width="53" Grid.Column="1" Grid.Row="1"/>
+        <TextBlock x:Name="textBlock_18" HorizontalAlignment="Left" Margin="1204,33,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="70" Width="52" FontSize="50.667" TextAlignment="Center" OpacityMask="#FF362929" Background="#FF0A0ADC" Grid.Column="1" Grid.Row="1"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="70" Margin="1204,33,0,0" VerticalAlignment="Top" Width="53" Grid.Column="1" Grid.Row="1"/>
+        <Button x:Name="button" Content="крок" HorizontalAlignment="Left" Margin="10,114,0,0" VerticalAlignment="Top" Width="123" Click="button_Click" Height="33" Grid.Row="1" Grid.ColumnSpan="2"/>
+        <Button x:Name="button1" Content="старт" HorizontalAlignment="Left" Margin="150,114,0,0" VerticalAlignment="Top" Width="123" Height="33" Grid.Row="1" Grid.ColumnSpan="2" Click="button1_Click"/>
+        <Button x:Name="button2" Content="стоп" HorizontalAlignment="Left" Margin="290,114,0,0" VerticalAlignment="Top" Width="123" Height="33" Grid.Row="1" Click="button2_Click" Grid.Column="1"/>
+        <GroupBox x:Name="groupBox" Header="Стан" HorizontalAlignment="Left" Margin="10,160,0,0" VerticalAlignment="Top" Height="98" Width="196" Grid.Row="1" Grid.ColumnSpan="2">
+            <TextBox x:Name="textBox_in_state" HorizontalAlignment="Left" Height="23" Margin="45,10,0,0" TextWrapping="Wrap" Text="q1" VerticalAlignment="Top" Width="92" RenderTransformOrigin="0.489,1.609"/>
+        </GroupBox>
+        <Label x:Name="label_out_position" Grid.ColumnSpan="2" Content="1" HorizontalAlignment="Left" Margin="67,0,0,0" Grid.Row="1" VerticalAlignment="Top" RenderTransformOrigin="1.312,0.5"/>
+        <Grid Grid.ColumnSpan="2" HorizontalAlignment="Left" Height="98" Margin="13,174,0,0" Grid.Row="1" VerticalAlignment="Top" Width="193">
+            <Button x:Name="button_m_l" Content="&lt;--" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="37" RenderTransformOrigin="3.189,8.3" Height="24" Click="Move_Click"/>
+            <Button x:Name="button_m_r" Content="--&gt;" HorizontalAlignment="Left" Margin="146,10,0,0" VerticalAlignment="Top" Width="37" RenderTransformOrigin="1.622,0.3" Height="24" Click="Move_Click"/>
+            <Button x:Name="button_state" Content="Встановити" HorizontalAlignment="Left" Margin="10,48,0,0" VerticalAlignment="Top" Width="173" Click="Set_Data"/>
+        </Grid>
+        <GroupBox x:Name="groupBox1" Header="Конфігурація" HorizontalAlignment="Left" Margin="220,160,0,0" Grid.Row="1" VerticalAlignment="Top" Height="98" Width="1037" Grid.Column="1">
+            <Grid HorizontalAlignment="Left" Height="76" Margin="0,0,-2,0" VerticalAlignment="Top" Width="1027">
+                <TextBox x:Name="textBox_in_data" HorizontalAlignment="Left" Height="20" Margin="10,10,0,0" TextWrapping="Wrap" Text="11110001" VerticalAlignment="Top" Width="1007" TextChanged="textBox_in_data_TextChanged" AcceptsReturn="True"/>
+                <Button x:Name="button_konf" Content="Встановити" HorizontalAlignment="Left" Margin="10,35,0,0" VerticalAlignment="Top" Width="164" RenderTransformOrigin="-0.12,0.15" Click="Set_Data"/>
+            </Grid>
+        </GroupBox>
+        <Label x:Name="label" Grid.ColumnSpan="2" Content="Позиція:" HorizontalAlignment="Left" Margin="10,0,0,0" Grid.Row="1" VerticalAlignment="Top" RenderTransformOrigin="-0.088,0.654"/>
+        <Label x:Name="label1" Grid.ColumnSpan="2" Content="Стан:" HorizontalAlignment="Left" Margin="150,0,0,0" Grid.Row="1" VerticalAlignment="Top"/>
+        <Label x:Name="label_out_stan" Grid.ColumnSpan="2" Content="1" HorizontalAlignment="Left" Margin="188,0,0,0" Grid.Row="1" VerticalAlignment="Top"/>
+        <GroupBox x:Name="groupBox2" Grid.ColumnSpan="2" Header="Множина станів" HorizontalAlignment="Left" Margin="7,272,0,0" Grid.Row="1" VerticalAlignment="Top" Height="266" Width="208"/>
+        <GroupBox x:Name="groupBox3" Header="Алфавіт" HorizontalAlignment="Left" Margin="235,277,0,0" Grid.Row="1" VerticalAlignment="Top" Height="266" Width="248" Grid.Column="1">
+            <Grid HorizontalAlignment="Left" Height="256" VerticalAlignment="Top" Width="238" Margin="0,0,-2,-12">
+                <CheckBox x:Name="checkBox_numbers" Content="Цифри" HorizontalAlignment="Left" Margin="10,12,0,0" VerticalAlignment="Top" FontSize="14" IsChecked="True"/>
+                <TextBlock x:Name="textBlock" HorizontalAlignment="Left" Margin="10,35,0,0" TextWrapping="Wrap" Text="0, 1, 2, 3 , 4, 5, 6, 7, 8, 9;" VerticalAlignment="Top" FontSize="14"/>
+                <CheckBox x:Name="checkBox_ALF" Content="Англійський алфавіт " HorizontalAlignment="Left" Margin="10,71,0,0" VerticalAlignment="Top" FontSize="14"/>
+                <TextBlock x:Name="textBlock1" HorizontalAlignment="Left" Margin="10,94,0,0" TextWrapping="Wrap" Text="A, a, B, b, C, c, D, d, E, e, F, f, G, g, H, h, I, i, J, j, K, k, L, l, M, m, N, n, O, o, P, p, Q, q, R, r, S, s, T, t, U, u, V, v, W, w, X, x, Y, y, Z, z;" VerticalAlignment="Top"/>
+                <TextBlock x:Name="textBlock2" HorizontalAlignment="Left" Margin="10,192,0,0" TextWrapping="Wrap" Text="&lt;, &gt;, =, +, -, *, /;" VerticalAlignment="Top" FontSize="14"/>
+                <CheckBox x:Name="checkBox_znaki" Content="Знаки" HorizontalAlignment="Left" Margin="10,169,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.746,-0.8" FontSize="14"/>
+            </Grid>
+        </GroupBox>
+        <GroupBox x:Name="groupBox4" Header="Команди" HorizontalAlignment="Left" Margin="500,277,0,0" Grid.Row="1" VerticalAlignment="Top" Height="266" Width="756" Grid.Column="1"/>
+        <Grid HorizontalAlignment="Left" Height="266" Margin="511,272,0,0" Grid.Row="1" VerticalAlignment="Top" Width="757" Grid.Column="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="5*"/>
+                <RowDefinition Height="33*"/>
+            </Grid.RowDefinitions>
+            <Button x:Name="button_comand" Content="Встановити" HorizontalAlignment="Left" Margin="10,21,0,0" VerticalAlignment="Top" Width="113" Grid.RowSpan="2" Click="Set_Data"/>
+            <TextBox x:Name="textBox_command" HorizontalAlignment="Left" Height="205" Margin="150,19,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="582" AcceptsReturn="True" Text="1q1-&gt;0q1R&#xA;0q1-&gt;1q1R&#xA;Bq1-&gt;Bq2L&#xA;1q2-&gt;0q2L&#xA;0q2-&gt;1q3L&#xA;Bq2-&gt;1STOP&#xA;0q3-&gt;0q3L&#xA;1q3-&gt;1q3L&#xA;2q1-&gt;STOP" Grid.RowSpan="2"/>
+            <Label x:Name="label2" Content="[ ]q*-&gt;STOP" HorizontalAlignment="Left" Height="32" Margin="150,189,0,0" VerticalAlignment="Top" Grid.Row="1" Width="97"/>
+        </Grid>
+        <Grid Grid.ColumnSpan="2" HorizontalAlignment="Left" Height="261" Margin="10,277,0,0" Grid.Row="1" VerticalAlignment="Top" Width="205">
+            <CheckBox x:Name="checkBox_q1" Content="q1" HorizontalAlignment="Left" Margin="21,25,0,0" VerticalAlignment="Top" IsChecked="True"/>
+            <CheckBox x:Name="checkBox_q2" Content="q2" HorizontalAlignment="Left" Margin="21,54,0,0" VerticalAlignment="Top" IsChecked="True"/>
+            <CheckBox x:Name="checkBox_q3" Content="q3" HorizontalAlignment="Left" Margin="21,85,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.559,-1.2"/>
+            <CheckBox x:Name="checkBox_q4" Content="q4" HorizontalAlignment="Left" Margin="21,116,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.676,0.2"/>
+            <CheckBox x:Name="checkBox_q5" Content="q5" HorizontalAlignment="Left" Margin="21,144,0,0" VerticalAlignment="Top"/>
+            <CheckBox x:Name="checkBox_q6" Content="q6" HorizontalAlignment="Left" Margin="21,177,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.765,3.533"/>
+            <CheckBox x:Name="checkBox_q7" HorizontalAlignment="Left" Margin="21,211,0,0" VerticalAlignment="Top" Content="q7"/>
+            <CheckBox x:Name="checkBox_q8" Content="q8" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="105,25,0,0"/>
+            <CheckBox x:Name="checkBox_q9" Content="q9" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="105,54,0,0"/>
+            <CheckBox x:Name="checkBox_q10" Content="q10" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="105,85,0,0"/>
+            <CheckBox x:Name="checkBox_q11" Content="q11" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="105,116,0,0"/>
+            <CheckBox x:Name="checkBox_q12" Content="q12" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="105,144,0,0"/>
+            <CheckBox x:Name="checkBox_q13" Content="q13" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="105,177,0,0" RenderTransformOrigin="0.647,10.067"/>
+            <CheckBox x:Name="checkBox_q14" Content="q14" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="105,211,0,0" RenderTransformOrigin="0.706,11.933"/>
+        </Grid>
+        <Grid Grid.ColumnSpan="2" HorizontalAlignment="Left" Height="33" Margin="430,114,0,0" Grid.Row="1" VerticalAlignment="Top" Width="333">
+            <Label x:Name="label3" Content="Швидкість" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+            <RadioButton x:Name="radioButton" Content="повільно" HorizontalAlignment="Left" Margin="72,10,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.471,0.8" IsChecked="True"/>
+            <RadioButton x:Name="radioButton_1" Content="швидко" HorizontalAlignment="Left" Margin="146,11,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.471,0.8"/>
+            <RadioButton x:Name="radioButton_2" Content="моментально" HorizontalAlignment="Left" Margin="212,11,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.471,0.8"/>
+        </Grid>
+    </Grid>
+</Window>
